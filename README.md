@@ -1,4 +1,4 @@
 # homework_3_1
 hello, everybody!
-everybody
+j,hsq helllo
 Добрый день
